@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">InventoryApp_v2</string>
+    <string name="details">Products Details</string>
+
+    <string name="quantity">Quantity : </string>
+    <string name="price">Price : </string>
+    <string name="product_name">Product Name</string>
+    <string name="sale">Sell</string>
+
+    <string name="details_product_name">Product Name : </string>
+    <string name="plusOne">+1</string>
+    <string name="minusOne">-1</string>
+    <string name="product_price">Price :</string>
+    <string name="supplier">Supplier Data</string>
+    <string name="supplier_name">Supplier Name :</string>
+    <string name="supplier_email">Email</string>
+    <string name="supplier_phone">Phone Number</string>
+    <string name="phone_call">Call</string>
+    <string name="send_email">Send Email</string>
+    <string name="delete_product">Delete Product</string>
+
+
+    <string name="check_delete">Are you sure you want to delete this product</string>
+    <string name="cancelDeletion">Are you sure ?? the current data will not be saved</string>
+    <string name="agree">Yes</string>
+    <string name="disagree">No</string>
+
+    <string name="addNewProducts">Add Product data</string>
+    <string name="updateProducts">Update Products</string>
+    <string name="addProducts">Add Products</string>
+    <string name="successful">Adding product done</string>
+
+    <string name="emptyData">There is no items now use menue to add products</string>
+</resources>
